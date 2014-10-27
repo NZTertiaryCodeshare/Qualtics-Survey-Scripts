@@ -1,0 +1,8 @@
+This code snippet disables spell checking and auto-correct in modern browsers. 
+This functionality can cause incorrect data to be entered in certain surveys. 
+To install this code - 
+1 - Log into Qualtrics and edit your survey
+2 - Click on 'Look and Feel'
+3 - Click 'Advanced'
+4 - Paste code into the 'Header' text box. 
+5 - Save
